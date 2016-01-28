@@ -1,1 +1,1 @@
-{ "type": "Feature", "properties": { "name": "Washington" }, "geometry": { "coordinates": [ 37.535767, -77.840817 ], "type": "Point" } }
+{ "type": "Feature", "properties": { "name": "Washington" }, "geometry": { "coordinates": [ 37.5357670000000000, -77.840817000000000 ], "type": "Point" } }
