@@ -1,8 +1,1 @@
-{
-"type": "FeatureCollection",
-"features": [ 
-{ "type": "Feature", "properties": { "city": "Richmond", "scalerank": 5, "featurecla": "Antarctic Ice Shelf Edge" }, "geometry": { "type": "LineString", "coordinates": [ [37.65621, -77.51247], [37.4763, -77.60558] ] } 
-}, 
-{ "type": "Feature", "properties": { "city": "Richmond1", "scalerank": 5, "featurecla": "Antarctic Ice Shelf Edge" }, "geometry": { "type": "LineString", "coordinates": [ [37.65621, -77.51247], [37.4763, -77.60558] ] } 
-} ] 
-}
+{"type": "FeatureCollection", "features": [ { "type": "Feature", "properties": { "city": "Richmond", "scalerank": 5, "featurecla": "Antarctic Ice Shelf Edge" }, "geometry": { "type": "LineString", "coordinates": [ [37.65621, -77.51247], [37.4763, -77.60558] ] } }, { "type": "Feature", "properties": { "city": "Richmond1", "scalerank": 5, "featurecla": "Antarctic Ice Shelf Edge" }, "geometry": { "type": "LineString", "coordinates": [ [37.65621, -77.51247], [37.4763, -77.60558] ] } } ] }
